@@ -1,3 +1,5 @@
-int calculate() {
-  return 6 * 7;
+import 'package:calculator/calculator.dart';
+
+int calculateAdd() {
+  return add(21, 21);
 }
